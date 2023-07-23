@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alternate Election Infobox</title>
+  <style>
+    .infobox {
+      border: 1px solid #ccc;
+      padding: 10px;
+      max-width: 400px;
+    }
+    .infobox h2 {
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
+    .infobox p {
+      font-size: 14px;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="infobox">
+    <h2>Alternate Election</h2>
+    <p><strong>Election Date:</strong> YYYY-MM-DD</p>
+    <p><strong>Winner:</strong> Candidate Name</p>
+    <p><strong>Party:</strong> Party Name</p>
+    <p><strong>Vote Percentage:</strong> XX.XX%</p>
+  </div>
+</body>
+</html>
